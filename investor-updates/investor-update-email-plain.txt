@@ -1,0 +1,24 @@
+Subject: [Company] update - [Month YYYY]: [headline]
+
+Hi all,
+
+TL;DR: [one sentence with the key number]. Ask: [one specific ask].
+
+NUMBERS
+- MRR: $[x] ([+/-y]% MoM)
+- Paying customers: [x]
+- Burn: $[x]/month | Cash: $[x] | Runway: [x] months
+
+WINS
+- [win]
+- [win]
+
+LOWLIGHTS
+- [miss and what we're changing]
+
+ASKS
+1. Intro to [name/role] at [company] - [why]
+2. Referrals for [role]: [link]
+
+Thanks,
+[Name]

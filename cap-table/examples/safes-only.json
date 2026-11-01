@@ -1,0 +1,9 @@
+{
+  "_source": "Pre-seed: two SAFEs, no priced round yet",
+  "holders": {"Founder 1": 4500000, "Founder 2": 4500000},
+  "unissued_pool": 1000000,
+  "safes": [
+    {"name": "Angel", "amount": 250000, "cap": 6000000},
+    {"name": "Pre-seed fund", "amount": 750000, "cap": 10000000}
+  ]
+}

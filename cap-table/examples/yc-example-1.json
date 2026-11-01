@@ -1,0 +1,16 @@
+{
+  "_source": "Y Combinator Post-Money SAFE User Guide, Example 1 (https://www.ycombinator.com/documents)",
+  "holders": {
+    "Founders": 9250000,
+    "Options outstanding": 300000,
+    "Promised options": 350000
+  },
+  "unissued_pool": 100000,
+  "safes": [
+    {"name": "Investor A", "amount": 200000, "cap": 4000000},
+    {"name": "Investor B", "amount": 800000, "cap": 8000000}
+  ],
+  "pre_money": 15000000,
+  "investment": 5000000,
+  "pool_target_post": 0.10
+}

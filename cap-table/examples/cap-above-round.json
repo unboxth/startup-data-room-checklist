@@ -1,0 +1,12 @@
+{
+  "_source": "Edge case: one SAFE's cap is above the round valuation, and one discount-only SAFE",
+  "holders": {"Founders": 9000000},
+  "unissued_pool": 1000000,
+  "safes": [
+    {"name": "High-cap SAFE", "amount": 500000, "cap": 30000000},
+    {"name": "Discount SAFE", "amount": 300000, "discount": 0.20}
+  ],
+  "pre_money": 12000000,
+  "investment": 3000000,
+  "pool_target_post": 0.10
+}

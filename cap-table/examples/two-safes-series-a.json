@@ -1,0 +1,12 @@
+{
+  "_source": "Worked example from https://www.unboxth.xyz/founder-playbooks/post-money-safe-explained/",
+  "holders": {"Founders": 8000000, "Issued options": 1000000},
+  "unissued_pool": 1000000,
+  "safes": [
+    {"name": "Investor A", "amount": 500000, "cap": 5000000},
+    {"name": "Investor B", "amount": 1000000, "cap": 10000000}
+  ],
+  "pre_money": 16000000,
+  "investment": 4000000,
+  "pool_target_post": 0.10
+}

@@ -1,0 +1,54 @@
+# Seed data room checklist (44 documents)
+
+The 44 documents usually needed by this stage. Later-stage rows are left out; see [the full checklist](full-checklist.md).
+
+| # | Folder | Document | Why investors ask | Needed from | US / Canada / Australia note | Source |
+|---|---|---|---|---|---|---|
+| 1 | 00 Start here | Data room index (this checklist) with a contact for questions | Lets an investor find any document in one click and see what is missing | Pre-seed | All |  |
+| 2 | 00 Start here | Current pitch deck (PDF) | The version partners will forward internally | Pre-seed | All |  |
+| 3 | 00 Start here | One-page company summary | What investors paste into their internal memo | Pre-seed | All |  |
+| 4 | 01 Corporate | Certificate of incorporation and any amendments | Proves the company exists and what stock it may issue | Pre-seed | US: Delaware certificate. CA: articles of incorporation. AU: ASIC registration and constitution | [link](https://www.ised-isde.canada.ca/site/corporations-canada/en/business-corporations/corporate-records-and-other-corporate-obligations) |
+| 5 | 01 Corporate | Bylaws (or constitution) and any shareholder agreement | Governance rules, voting thresholds, transfer limits | Pre-seed | CA: by-laws and any unanimous shareholder agreement are corporate records the corporation must keep | [link](https://www.ised-isde.canada.ca/site/corporations-canada/en/business-corporations/corporate-records-and-other-corporate-obligations) |
+| 6 | 01 Corporate | Board and stockholder consents and minutes | Shows every share issue, SAFE and option grant was approved | Pre-seed | YC: the board must approve issuing SAFEs | [link](https://www.ycombinator.com/documents) |
+| 7 | 01 Corporate | Certificate of good standing (recent) | Confirms filings and taxes with the state are current | Seed | US Delaware: annual report and franchise tax due on or before 1 March; $200 penalty plus 1.5% a month if missed | [link](https://corp.delaware.gov/paytaxes/) |
+| 8 | 01 Corporate | Delaware annual franchise tax report receipts | Unpaid franchise tax is a closing condition | Seed | US Delaware C-corps only | [link](https://corp.delaware.gov/paytaxes/) |
+| 10 | 01 Corporate | Organization chart of all entities (parent, subsidiaries, ownership %) | Needed after a Delaware flip or with an operating subsidiary abroad | Seed | CA/AU founders with a US parent: show the local subsidiary |  |
+| 11 | 01 Corporate | IRS EIN confirmation letter and local tax registrations | Matches legal name and tax IDs across documents | Seed | CA: Business Number and GST/HST account. AU: ABN and GST registration |  |
+| 12 | 02 Cap table | Fully diluted cap table (spreadsheet or Carta/Pulley export) | The most checked document in the room; must tie to the deck | Pre-seed | Use the free cap table template at unboxth.xyz/resources/cap-table-template/ | [link](https://www.ycombinator.com/documents) |
+| 13 | 02 Cap table | Stock ledger / securities register / members register | Legal record of every share issued and transferred | Pre-seed | CA (CBCA): securities register required. AU: register of members required, with allotment dates and classes | [link](https://www.asic.gov.au/for-business-and-companies/companies/company-share-and-shareholder-rules-and-changes/members-register-requirements-and-changes) |
+| 14 | 02 Cap table | Founder stock purchase agreements with vesting | Shows founders are on vesting and the company can repurchase unvested shares | Pre-seed | All |  |
+| 15 | 02 Cap table | Founder 83(b) elections with proof of timely filing | A missed 83(b) is a known diligence red flag for US founders | Pre-seed | US tax election; file within 30 days of transfer and give the company a copy | [link](https://www.irs.gov/pub/irs-pdf/f15620.pdf) |
+| 16 | 02 Cap table | All SAFEs, convertible notes and side letters (signed) | Investors model conversion from the signed terms, not a summary | Pre-seed | YC post-money SAFE: pro rata rights sit in a separate side letter | [link](https://www.ycombinator.com/documents) |
+| 17 | 02 Cap table | Equity incentive plan, board approval and grant ledger | Confirms the option pool size and every grant | Seed | All |  |
+| 18 | 02 Cap table | Option grant agreements and exercise records | Ties the grant ledger to signed paperwork | Seed | All |  |
+| 19 | 02 Cap table | Register of individuals with significant control | Ownership transparency; asked by investors in Canadian companies | Seed | CA (CBCA): most corporations must keep an ISC register with corporate records | [link](https://www.ised-isde.canada.ca/site/corporations-canada/en/business-corporations/corporate-records-and-other-corporate-obligations) |
+| 20 | 03 Financial | Financial model with assumptions (monthly, 18-24 months) | How the round extends runway and to what milestone | Pre-seed | All |  |
+| 21 | 03 Financial | Monthly management accounts (P&L, balance sheet, cash) | Checks burn and revenue against the deck | Seed | All |  |
+| 22 | 03 Financial | Bank statements (last 3-6 months) | Confirms cash on hand | Seed | All |  |
+| 23 | 03 Financial | Revenue by customer and MRR/ARR schedule | Concentration and growth quality | Seed | All |  |
+| 24 | 03 Financial | Use of funds for this round | Where the money goes and what it buys | Pre-seed | All |  |
+| 25 | 03 Financial | Debt, loans, grants and government funding agreements | Liabilities that rank ahead of equity | Seed | CA: SR&ED claims. AU: R&D Tax Incentive registrations |  |
+| 26 | 04 Tax | Income tax returns filed (all entities) | Unfiled returns become the buyer's problem | Seed | US C-corp: Form 1120. Foreign-owned US LLC: pro forma 1120 + Form 5472 | [link](https://www.irs.gov/instructions/i5472) |
+| 29 | 05 Legal and IP | Founder IP assignment / invention assignment agreements | Proves the company, not a founder, owns the code | Pre-seed | All: include work done before incorporation |  |
+| 30 | 05 Legal and IP | Employee and contractor agreements with IP assignment | Same test for everyone who wrote code | Pre-seed | All |  |
+| 33 | 05 Legal and IP | Material contracts (customers, partners, vendors over a set value) | Change-of-control, exclusivity and termination terms | Seed | All |  |
+| 34 | 05 Legal and IP | Litigation, disputes and threatened claims (or a statement of none) | Contingent liabilities | Seed | All |  |
+| 35 | 05 Legal and IP | Privacy policy, terms of service and data processing agreements | Data compliance, especially for AI products using customer data | Seed | All |  |
+| 36 | 06 Product | Product demo video or sandbox login | Lets partners try the product without a call | Pre-seed | All |  |
+| 37 | 06 Product | Technical architecture overview and model/API dependencies | Concentration on one model provider and unit cost | Seed | AI startups: list LLM providers and cost per request |  |
+| 39 | 06 Product | Product roadmap (next 12 months) | What the round funds | Seed | All |  |
+| 40 | 07 Customers | Key metrics definitions and dashboard export | Investors re-calculate your metrics; define them first | Pre-seed | All |  |
+| 41 | 07 Customers | Cohort retention and churn data | Retention is the core of a seed or Series A decision | Seed | All |  |
+| 42 | 07 Customers | Pipeline and signed LOIs | Evidence of demand beyond current revenue | Pre-seed | All |  |
+| 43 | 07 Customers | Customer references (with permission) | Reference calls happen late; line them up early | Seed | All |  |
+| 44 | 08 Team | Team bios and org chart | Who does what; gaps the round must fill | Pre-seed | All |  |
+| 45 | 08 Team | Hiring plan tied to use of funds | Headcount drives burn | Seed | All |  |
+| 46 | 08 Team | Employment agreements for key staff | Non-solicit, IP and termination terms | Seed | All |  |
+| 47 | 08 Team | Visa or work authorization status for key people | Relocation risk for cross-border teams | Seed | CA/AU founders moving to the US: note visa type and timing |  |
+| 48 | 09 Round | Term sheet or SAFE terms for this round | The deal being diligenced | Pre-seed | All | [link](https://www.ycombinator.com/documents) |
+| 49 | 09 Round | Pro forma cap table after this round | Shows dilution and the option pool increase | Seed | Use the cap table template to build it | [link](https://www.ycombinator.com/documents) |
+| 50 | 09 Round | Previous investor updates | Shows how you report and whether you hit past plans | Seed | All |  |
+
+---
+
+Editable versions: [CSV](data-room-checklist.csv) in this repo, or the [XLSX with status dropdowns and a progress sheet](https://www.unboxth.xyz/resources/startup-data-room-checklist/?utm_source=github&utm_medium=readme&utm_campaign=data-room) on unboxth. General information, not legal advice.
